@@ -1,5 +1,5 @@
 ﻿# UFO飞碟游戏
-**[github项目传送门](https://github.com/KeplerVK/Unity3d/edit/master/week4/README.md)**
+**[github项目传送门](https://github.com/KeplerVK/Unity3d/edit/master/week4)**
 
 ### 规则
 
